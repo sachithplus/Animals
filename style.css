@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    background-color: #d0f0c0;
+     font-family: 'Comic Neue', cursive;
+     padding: 30px;
+}
+
+h1{
+    font-size: 5rem;
+    color: #ff6600;
+     font-family: "Arvo", cursive;
+     text-shadow: 2px 2px 4px #996600;
+}
+
+footer{
+    background-color: #88cc88;
+    color: #fff;
+    text-align: center;
+     padding: 15px 0;
+     font-family: 'Comic Neue', cursive;
+     font-size: 1.2rem;
+     text-shadow: 1px 1px 2px #4d774e;
+     border-top: 3px dashed #66aa66;
+
+}
+
+.cat{
+    background-image: url(./Properties/Images/Cat.png);
+}
+.cow{
+    background-image: url(./Properties/Images/cow\ new.png);
+}
+.dog{
+    background-image: url(./Properties/Images/Dog.png);
+}
+.dnky{
+    background-image: url(./Properties/Images/Donkey.jpeg);
+}
+.elphnt{
+    background-image: url(./Properties/Images/Elephant.png);
+}
+.fox{
+    background-image: url(./Properties/Images/Fox.jpg);
+}
+.gt{
+    background-image: url(./Properties/Images/Goat.jpg);
+}
+.hrs{
+    background-image: url(./Properties/Images/hourse.png);
+}
+.lin{
+    background-image: url(./Properties/Images/Lion.jpg);
+}
+.mky{
+    background-image: url(./Properties/Images/mky.jpg);
+}
+.sql{
+    background-image: url(./Properties/Images/Squirrel.png);
+}
+.tgr{
+    background-image: url(./Properties/Images/Tiger.jpg);
+}
+.jungle{
+     margin: 10% auto;
+}
+.animal{
+    outline: none;
+    border: 10px solid #404B69;
+     background-color: #fefbd8;
+       color: #39FF14;
+       border: 2px solid #222;
+      font-family: 'Comic Neue', cursive;
+     font-size: 4rem;
+     line-height: 2;
+     font-weight: 900;
+    padding: 15px 25px;
+     margin: 10px;
+     border-radius: 15px;
+     box-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14;
+     cursor: pointer;
+     transition: all 0.2s ease;
+     display: inline-block;
+      width: 300px;
+  height: 300px;
+  text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,  
+    -1px  1px 0 #000,  
+     1px  1px 0 #000;
+
+}
+button:hover {
+  transform: scale(1.05);         
+  background-color: #28a745;      
+}
+button{
+    background-repeat: no-repeat;
+     background-position: center;
+      background-size: 300px 300px; 
+       padding-left: 60px; 
+
+}
+     
