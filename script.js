@@ -1,3 +1,4 @@
+
 var allbuttons = document.querySelectorAll(".animal");
 for(var i = 0; i < allbuttons.length; i++){
 

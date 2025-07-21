@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: #d0f0c0;
+   background: linear-gradient(to right, #ffe4b5, #ffebcd);
      font-family: 'Comic Neue', cursive;
      padding: 30px;
 }
